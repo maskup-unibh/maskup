@@ -1,0 +1,9 @@
+com\mycompany\lojinha\database\Conexao.class
+com\mycompany\lojinha\Principal.class
+com\mycompany\lojinha\Juridico.class
+com\mycompany\lojinha\database\CFisicoBD.class
+com\mycompany\lojinha\Fisico.class
+com\mycompany\lojinha\Cliente.class
+com\mycompany\lojinha\database\ClienteBD.class
+com\mycompany\lojinha\Endereco.class
+com\mycompany\lojinha\Produto.class
